@@ -107,20 +107,20 @@ java GUI
 
 ### 📸 Screenshot 1: CLI Menu
 
-![CLI Menu](screenshot\Screenshot 2026-03-31 000423.png)
+![CLI Menu](screenshots/cli_menu.png)
 
 ---
 
 ### 📸 Screenshot 2: Add Student
 
-![CLI Menu](screenshot\Screenshot 2026-03-31 000519.png)
+![Add Student](screenshots/add_student.png)
 
 
 ---
 
 ### 📸 Screenshot 3: View Students
 
-![CLI Menu](screenshot\Screenshot 2026-03-31 000558.png)
+![View Students](screenshots/view_students.png)
 
 
 ---
@@ -136,20 +136,20 @@ java GUI
 
 ### 📸 Screenshot 4: GUI Window
 
-![CLI Menu](screenshot\Screenshot 2026-03-31 000705.png)
+![Gui Winsdow](screenshots/gui.png)
 
 ---
 
 ### 📸 Screenshot 5: Add Student (GUI)
 
-![CLI Menu](screenshot\Screenshot 2026-03-31 000817.png)
+![Add Student](screenshots/gui_add_student.png)
 
 
 ---
 
 ### 📸 Screenshot 6: Table Display
 
-![CLI Menu](screenshot\Screenshot 2026-03-31 001017.png)
+![Table Display](screenshots/gui_view_student.png)
 
 
 ---
@@ -205,5 +205,6 @@ This system can be used for:
 ## 👨‍💻 Author
 
 Developed as part of BYOP (Bring Your Own Project)
-
+by DEBJEET DEBNATH
+   REG.NO.- 24BAI10791
 ---
