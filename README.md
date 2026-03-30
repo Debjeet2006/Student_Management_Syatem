@@ -107,19 +107,21 @@ java GUI
 
 ### 📸 Screenshot 1: CLI Menu
 
-👉 Add screenshot here showing menu
+![CLI Menu](screenshot\Screenshot 2026-03-31 000423.png)
 
 ---
 
 ### 📸 Screenshot 2: Add Student
 
-👉 Add screenshot showing adding student
+![CLI Menu](screenshot\Screenshot 2026-03-31 000519.png)
+
 
 ---
 
 ### 📸 Screenshot 3: View Students
 
-👉 Add screenshot showing table output
+![CLI Menu](screenshot\Screenshot 2026-03-31 000558.png)
+
 
 ---
 
@@ -134,19 +136,21 @@ java GUI
 
 ### 📸 Screenshot 4: GUI Window
 
-👉 Add screenshot of full GUI
+![CLI Menu](screenshot\Screenshot 2026-03-31 000705.png)
 
 ---
 
 ### 📸 Screenshot 5: Add Student (GUI)
 
-👉 Add screenshot after adding student
+![CLI Menu](screenshot\Screenshot 2026-03-31 000817.png)
+
 
 ---
 
 ### 📸 Screenshot 6: Table Display
 
-👉 Add screenshot of JTable
+![CLI Menu](screenshot\Screenshot 2026-03-31 001017.png)
+
 
 ---
 
