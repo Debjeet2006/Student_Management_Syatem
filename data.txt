@@ -1,0 +1,4 @@
+15462,Debjeet debnath,20,AI ML
+16542,Aryan,20,data science
+17562,samarth,19,cse
+12546,Rik,18,cyber
