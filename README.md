@@ -120,7 +120,7 @@ java GUI
 
 ### 📸 Screenshot 3: View Students
 
-![View Students](screenshots/view_students.png)
+![View Students](screenshots/view_student.png)
 
 
 ---
